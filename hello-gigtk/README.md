@@ -1,1 +1,1 @@
-# hello-gigtk
+# hello program which based on gi-gtk
